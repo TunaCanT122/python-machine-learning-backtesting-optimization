@@ -5,3 +5,7 @@ I will, after the program is done, painstakingly input the variables and return 
 ## Subheader
 
 Ling gang goo.
+
+## Local Development
+
+1. Open index.html in your browser.
